@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.523,=D:\Delphi\Jeux\GoblinSweeper\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.330,D:\Delphi\Jeux\GoblinSweeper\Unit1.pas=D:\Delphi\Jeux\GoblinSweeper\DataModule_Local.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.270,C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Minesweeper.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.842,=D:\Delphi\Jeux\GoblinSweeperImages\CriGoblin.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.807,=D:\Delphi\Jeux\GoblinSweeperImages\Ambiance.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.305,C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Start.fmx=C:\Users\LukaWarnier\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.794,=G:\Delphi\Jeux\GoblinSweeperImages\FeuArtifice.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.222,=C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Minesweeper.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.690,D:\Delphi\Jeux\MineSweeper\Form_Minesweeper.pas=D:\Delphi\Jeux\MineSweeper\Form_Goblinsweeper.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.108,=C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.461,=C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.330,D:\Delphi\Jeux\GoblinSweeper\Unit1.dfm=D:\Delphi\Jeux\GoblinSweeper\DataModule_Local.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.246,C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Minesweeper.pas=C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.123,C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\MineSweeper.dproj=C:\Users\LukaWarnier\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.335,C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Params.pas=C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Start.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.690,D:\Delphi\Jeux\MineSweeper\Form_Minesweeper.fmx=D:\Delphi\Jeux\MineSweeper\Form_Goblinsweeper.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.877,=D:\Delphi\Jeux\GoblinSweeperImages\Pelle.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.768,D:\Delphi\Jeux\MineSweeper\MineSweeper.dproj=D:\Delphi\Jeux\MineSweeper\GoblinSweeper.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.305,C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Start.pas=C:\Users\LukaWarnier\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.616,=C:\Users\LukaWarnier\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.335,C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Params.fmx=C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Start.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.717,=D:\Delphi\Jeux\GoblinSweeperImages\FeuArtifice.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.835,=D:\Delphi\Jeux\GoblinSweeperImages\evil-goblin.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.246,C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Form_Minesweeper.fmx=C:\Users\LukaWarnier\Documents\Programme Delphi\MineSweeper\Unit2.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.717,G:\Delphi\Jeux\GoblinSweeperImages\FeuArtifice.wav=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.932,=D:\Delphi\Jeux\GoblinSweeper\Form_ScoreBoard.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.748,=D:\Delphi\Jeux\GoblinSweeperImages\atmospheric-sound-of-the-cave-where-the-goblins-live.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.797,=D:\Delphi\Jeux\GoblinSweeperImages\DIRTImpt_Pelle qui creuse (ID 1305)_LS.wav</Transaction>
+    <Transaction>2025-04-18 23:40:24.254,=G:\Delphi\Jeux\GoblinSweeperImages\Drapeau.wav</Transaction>
+    <Transaction>2025-04-19 01:14:31.262,=G:\Delphi\Jeux\GoblinSweeperSons\Ambiance.mp3</Transaction>
+    <Transaction>2025-04-19 01:14:31.278,=G:\Delphi\Jeux\GoblinSweeperSons\CriGoblin.mp3</Transaction>
+    <Transaction>2025-04-19 01:14:31.311,=G:\Delphi\Jeux\GoblinSweeperSons\Drapeau.wav</Transaction>
+    <Transaction>2025-04-19 01:14:31.330,=G:\Delphi\Jeux\GoblinSweeperSons\FeuArtifice.mp3</Transaction>
+    <Transaction>2025-04-19 01:14:31.359,=G:\Delphi\Jeux\GoblinSweeperSons\Pelle.mp3</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="A68846230290" Android="A68846230290"/>
+	</ActiveMobileDevice>
+</BorlandProject>
