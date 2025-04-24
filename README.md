@@ -36,3 +36,6 @@ The tiles evolve dynamically as you explore, thanks to a smart adaptive tile sys
 
 🧠 Perfect for logic lovers... and goblin fans alike!
 Whether you're chasing a high score or just here for the goblin screams, Goblin Sweeper offers a magical twist on a legendary puzzle formula.
+
+![image](https://github.com/user-attachments/assets/8591b472-d2f6-47f4-8719-3c8837d6a5b4)
+
